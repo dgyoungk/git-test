@@ -1,1 +1,4 @@
 GOOOOOD MORNING VIETNAM!
+
+This is just meaningless text to test the results
+of the git command to set default editor
